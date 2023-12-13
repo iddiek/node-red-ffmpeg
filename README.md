@@ -23,7 +23,7 @@ docker run --rm  -p 1881:1880  william1608/node-red-ffmpeg:$VERSION
 ![image](https://github.com/william89731/node-red-ffmpeg/assets/68069659/85468ec1-54f2-466f-a14b-0893b2915cf7)
 
 
-and open browser to "loacalhost:1881".
+and open browser to "localhost:1881".
 
 try latest docker [image](https://hub.docker.com/r/william1608/node-red-ffmpeg/tags) 
 
@@ -72,7 +72,7 @@ show in dashboard your cams:
 
 ### Final cut
 
-enjoy this project and check my another works  [here](https://github.com/william89731) 
+enjoy this project and check my other works  [here](https://github.com/william89731) 
 
 
 
